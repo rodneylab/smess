@@ -1,6 +1,14 @@
 {
 	"name": "smess",
+	"description": "smess app",
+	"author": "Rodney Lab <ask@rodneylab.com> (@rodneyLab)",
 	"version": "0.0.1",
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"prisma",
+		"supabase"
+	],
 	"scripts": {
 		"dev": "svelte-kit dev --port 3030",
 		"build": "svelte-kit build",
@@ -35,5 +43,12 @@
 	"type": "module",
 	"dependencies": {
 		"@prisma/client": "^3.0.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rodneylab/smess"
+	},
+	"bugs": {
+		"url": "https://github.com/rodneylab/smess/issues"
 	}
 }
