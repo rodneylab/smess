@@ -2,6 +2,7 @@
 	"name": "smess",
 	"description": "smess app",
 	"author": "Rodney Lab <ask@rodneylab.com> (@rodneyLab)",
+	"license": "BSD-3-Clause",
 	"version": "0.0.1",
 	"keywords": [
 		"svelte",
